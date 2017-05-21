@@ -7,6 +7,8 @@ Facil, dirigete al apartado de "Issues" y publica el error que hayas visto, por 
 
 Si el reporte es incompleto, es de una versión obsoleta o está arreglado, se cerrará.
 
+Aviso: Si no te has pasado el juego, no abras ningún reporte que no sea tuyo para no recibir spoilers.
+
 ## Aclaraciones sobre los videos que no están traducidos
 Actualmente no se dispone de una herramienta opensource para editar los videos de la 3ds, ya que son todos en formato ".moflex" y actualmente solo puede ser leido con las herramientas de desarrollador de nintendo, cosa que si usamos estamos infringiendo unos terminos de servicio y tendriamos problemas legales.
 
