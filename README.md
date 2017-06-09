@@ -3,7 +3,7 @@
 Bienvenido al apartado de la traducción de Stella Glow al español en Github, aquí de momento solo añadiremos la zona de reportes, changelogs y aclaraciones.
 
 ## Como reportar cualquier fallo en la traducción
-Facil, dirigete al apartado de "Issues" y avísanos del error que hayas visto, nos tendrías que indica la versión de la traducción, región, si el error es grave o leve con las etiquetas label, describenos el error cuando y como pasa.
+Facil, dirigete al apartado de "Issues" y avísanos del error que hayas visto, nos tendrías que indica la versión de la traducción, región, titleID del juego (Se puede mirar perfectamente con FBI o HANS), si el error es grave o leve con las etiquetas label, describenos el error cuando y como pasa.
 
 Si es posible, añade una captura del error, nos ayudaria muchisimo para poder arreglarlo lo antes posible.
 
