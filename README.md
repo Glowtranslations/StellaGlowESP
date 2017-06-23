@@ -17,6 +17,46 @@ Actualmente no se dispone de una herramienta opensource para editar los videos d
 ## Changelog
 ### Juego completo V1
 * Versión inicial
+### Juego completo V1.1
+* Nota: Si no te has pasado el juego, no abras los reportes para no spoilearte
+* Arreglado el problema de la primera armonización de Popo en la versión USA
+
+https://github.com/Glowtranslations/StellaGlowESP/issues/1
+
+* Arreglado varios errores ortográficos y de traducción
+
+ https://github.com/Glowtranslations/StellaGlowESP/issues/2
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/3
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/5
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/6
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/8
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/9
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/11
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/12
+
+* Arreglado el problema de los orbes que no salian traducidos al activarse
+ 
+ https://github.com/Glowtranslations/StellaGlowESP/issues/4
+
+* Arreglado el problema de saltos de lineas en algunas habilidades pasivas.
+
+https://github.com/Glowtranslations/StellaGlowESP/issues/7
+
+* Arreglado el grave problema del metodo de parcheo de la versión NTR que el final no lo reproducia y se quedaba estancado ahí.
+
+https://github.com/Glowtranslations/StellaGlowESP/issues/10
+
+* Actualizado el soporte de Luma añadiendo la posibilidad de usar su layeredFS para usar la traducción.
+* Añadido un logo de "En español" en el banner de Stella Glow (Solo en formato CIA y 3DS)
+* Nota: Posiblemente este sea la última revisión del juego a no ser que encontremos algún error grave o una gran cantidad de errores leves.
+* Tambien queremos agradecer a todos los que nos ha reportado los errores en el juego y a eliden por su gran cantidad de reportes que nos ha ofrecido para mejorar la traducción del juego.
 ### Demo V1
 * Versión inicial
 ### Demo V1.1
@@ -24,6 +64,20 @@ Actualmente no se dispone de una herramienta opensource para editar los videos d
 * Traducción actualizada en base a los últimos cambios y correcciones.
 * Añadidas las opciones 3DS y CIA.
 
+### Herramientas usadas en la traducción
+* Descifrado y cifrado de .cmp (Agradecimientos a Niklas Brunlid por el programa de cifrado y descifrado lzss)
+
+http://www.ticalc.org/archives/files/fileinfo/57/5789.html
+
+* Modificación de archivos ".arc" y exportado a ".bclim" (Agradecimientos a Gericom por Every File Explorer)
+
+https://github.com/Gericom/EveryFileExplorer
+
+* Modificación de textos ".str" (Agradecimientos a Akelpad por su programa)
+
+http://akelpad.sourceforge.net/en/index.php
+
+* Modificación de textos ".flw" (Agradecimientos al romhacker Raugo)
 ### Más información
 Para más información, puedes visitar el apartado de "Contacto" de nuestra web y contactar con alguno de los medios que ofrecemos.
 
