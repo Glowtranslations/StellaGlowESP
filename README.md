@@ -64,7 +64,16 @@ https://github.com/Glowtranslations/StellaGlowESP/issues/10
 * Traducción actualizada en base a los últimos cambios y correcciones.
 * Añadidas las opciones 3DS y CIA.
 
-### Herramientas usadas en la traducción
+## F.A.Q. de errores sobre el parcheador
+### "No se pudo encontrar el archivo "StellaGlowESP.cia" o similares.
+* El makerom que trae el parcheador te ha fallado, prueba a ponerlo en alguna carpeta sin espacios, ejecutarlo en modo administrador o usa otro ordenador, es un error que a alguna gente misteriosamente le falla.
+* Tambien la causa puede ser que este ejecutandose en un S.O. de 32 bits, el parcheador solo funciona desde los sistemas operativos de 64 bits de Microsoft (windows 7, windows 8, Windows 8.1 y Windows 10, Windows xp y vista no funciona)
+### "No se pudo encontrar el archivo "StellaGlowESP.cxi".
+* La copia que has realizado no esta limpia o no es original, el parcheador solo funciona con copias limpias de los juegos físicos o dígitales.
+### Me sale un error distinto a la que aparece en el F.A.Q.
+* Escribenos en el apartado de "Issues" de esta misma página y nos indicas que pasa.
+
+## Herramientas usadas en la traducción
 * Descifrado y cifrado de .cmp (Agradecimientos a Niklas Brunlid por el programa de cifrado y descifrado lzss)
 
 http://www.ticalc.org/archives/files/fileinfo/57/5789.html
@@ -78,7 +87,7 @@ https://github.com/Gericom/EveryFileExplorer
 http://akelpad.sourceforge.net/en/index.php
 
 * Modificación de textos ".flw" (Agradecimientos al romhacker Raugo)
-### Más información
+## Más información
 Para más información, puedes visitar el apartado de "Contacto" de nuestra web y contactar con alguno de los medios que ofrecemos.
 
 ### Glowtranslations 2016-2017
